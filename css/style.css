@@ -313,7 +313,9 @@ a:hover {
 }
 
 
-
+.portfolio-img:hover {
+	transform: scale(1.03) !important;
+}
 
 
 /*** Testimonial ***/
