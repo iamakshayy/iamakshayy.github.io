@@ -313,7 +313,7 @@ a:hover {
 }
 
 
-.portfolio-img:hover {
+.portfolio-img.rounded.overflow-hidden:hover {
 	transform: scale(1.03) !important;
 }
 
